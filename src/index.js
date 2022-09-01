@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './aulas/App-aula3';
+import App from './aulas/calculadora';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
